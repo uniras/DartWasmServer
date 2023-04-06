@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "typescript": "^5.0.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "denotest",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
